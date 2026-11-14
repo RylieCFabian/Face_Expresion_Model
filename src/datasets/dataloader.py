@@ -16,9 +16,9 @@ test_loader = DataLoader(
 
 images , labels = next(iter(train_loader))
 
-# print(f"Images Shape: {images.shape}")
-# print(f"Labels Shape: {labels.shape}")
-# print(f"Labels: {labels}")
+print(f"Images Shape: {images.shape}")
+print(f"Labels Shape: {labels.shape}")
+print(f"Labels: {labels}")
 
 fig , axes = plt.subplots(2,4, figsize = (12,6))
 
