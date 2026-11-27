@@ -15,7 +15,9 @@ Nov 25 : Alright so I have no idea what I'm doing. I've been trying to create th
 
 ## Challenges
 
-Nov 11: The challenge for me was getting the data set for this Neural Network. But I got it now
+Nov 11: The challenge for me was getting the data set for this Neural Network. But I got it now.
+
+Nov 27: So I'm finaly training the CNN model "optimally", but I think it's overfitting. Just need to change some hyperparameters. However, I don't know how to do THAT either so we ball...
 
 ## ⬇️ Installation
 
